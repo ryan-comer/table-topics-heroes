@@ -1,0 +1,9 @@
+.card{
+    border: 5px solid black;
+}
+
+.category{
+    border: 3px solid black;
+    border-radius: 8px;
+    background-color: #c9e4e7;
+}
